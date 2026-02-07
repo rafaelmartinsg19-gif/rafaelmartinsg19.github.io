@@ -1,2 +1,10 @@
-# rafaelmartinsg19.github.io
-Não aceite andar com o carro danificado! Transformamos veículos em verdadeiras máquinas novas com pintura perfeita e lanternagem profissional. Atendimento rápido, preço competitivo e resultados que impressionam. Agende agora!
+## My new app
+
+This app was created using https://getmocha.com.
+Need help or want to join the community? Join our [Discord](https://discord.gg/shDEGBSe2d).
+
+To run the devserver:
+```
+npm install
+npm run dev
+```
